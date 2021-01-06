@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "VueCordovaDemo",
+  "short_name": "VueCordovaDemo",
+  "version": "com.vue.cordova.demo",
+  "description": "Demo app for vue-cordova NPM package",
+  "author": "Simon Tarchichi",
+  "icons": [],
+  "start_url": "index.html"
+}
